@@ -1,0 +1,9 @@
+# Dependências
+node_modules/
+
+# Configurações locais
+.env
+
+# Arquivos temporários e logs
+*.log
+.DS_Store

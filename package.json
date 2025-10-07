@@ -1,0 +1,15 @@
+{
+    "name": "plp_mongodb_week1",
+    "version": "1.0.0",
+    "description": "Week 1 MongoDB – Data Layer Fundamentals and Advanced Techniques (PLP)",
+    "main": "insert_books.js",
+    "type": "module",
+    "scripts": {
+        "insert": "node insert_books.js",
+        "queries": "node queries.js"
+    },
+    "dependencies": {
+        "dotenv": "^16.4.5"
+
+    }
+}
